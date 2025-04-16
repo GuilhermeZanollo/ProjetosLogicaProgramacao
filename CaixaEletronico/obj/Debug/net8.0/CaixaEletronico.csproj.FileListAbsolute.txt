@@ -1,0 +1,14 @@
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\bin\Debug\net8.0\CaixaEletronico.exe
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\bin\Debug\net8.0\CaixaEletronico.deps.json
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\bin\Debug\net8.0\CaixaEletronico.runtimeconfig.json
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\bin\Debug\net8.0\CaixaEletronico.dll
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\bin\Debug\net8.0\CaixaEletronico.pdb
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.AssemblyInfo.cs
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.dll
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\refint\CaixaEletronico.dll
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.pdb
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\CaixaEletronico.genruntimeconfig.cache
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\CaixaEletronico\obj\Debug\net8.0\ref\CaixaEletronico.dll

@@ -1,0 +1,14 @@
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\bin\Debug\net8.0\SistemaEstacionamento.exe
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\bin\Debug\net8.0\SistemaEstacionamento.deps.json
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\bin\Debug\net8.0\SistemaEstacionamento.runtimeconfig.json
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\bin\Debug\net8.0\SistemaEstacionamento.dll
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\bin\Debug\net8.0\SistemaEstacionamento.pdb
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.dll
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\refint\SistemaEstacionamento.dll
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.pdb
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Projetos\ProjetosLogicaProgramacao\ProjetosLogicaProgramacao\Estacionamento\obj\Debug\net8.0\ref\SistemaEstacionamento.dll
